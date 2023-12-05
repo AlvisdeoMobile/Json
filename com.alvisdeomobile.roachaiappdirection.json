@@ -1,0 +1,18 @@
+{
+  "ads": {
+    "settings": {
+      "start_interval_interstitial_in_second": 15,
+      "interval_interstitial_in_second": 25,
+      "app_must_live_at_play_store": false
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712"
+      }
+    ]
+  }
+}
